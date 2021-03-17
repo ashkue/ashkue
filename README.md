@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👋 You can find me on social media here:
+You can find me on social media here:
 
 <p>
     <a href="https://www.linkedin.com/in/pavel-morshenyuk"><img src="https://img.shields.io/badge/-Pavel%20Morshenyuk-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
