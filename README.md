@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 🤝🏻 &nbsp;Connect with Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/pavel-morshenyuk"><img src="https://img.shields.io/badge/-Pavel%20Morshenyuk-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://twitter.com/PavelMorshenyuk"><img src="https://img.shields.io/badge/-Pavel%20Morshenyuk-1DA1F2?style=flat&logo=Twitter&logoColor=white"/></a>
+<a href="https://instagram.com/pavel_morshenyuk"><img src="https://img.shields.io/badge/-@pavel_morshenyuk-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.joinclubhouse.com/@ashkue"><img src="https://img.shields.io/badge/-@ashkue-6515dd?style=flat&logo=Clubhouse&logoColor=white"/></a>
+</p>
